@@ -12,3 +12,11 @@ sudo nano /etc/netplan/50-cloud-init.yaml
 
 ### Now, we modify settings as needed and saved.
 ![image](https://github.com/user-attachments/assets/194c7fac-1341-41da-b031-d726e3a17158)
+```bash
+sudo netplan apply | for command activate
+```
+### We modified IP Address.
+![image](https://github.com/user-attachments/assets/6e55aaa9-8a41-4405-8ad3-0cc26414a63a)
+
+---
+
